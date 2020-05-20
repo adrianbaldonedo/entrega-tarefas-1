@@ -310,7 +310,7 @@ La clave primaria se utiliza para identificar en forma única cada línea en la 
 		nombre VARCHAR(10),
 		apellido VARCHAR(20)
 	);
-
+	
 Cuando hay más de una clave primaria (también sirve si hay una solo), se utiliza lo siguiente (y no se puede usar la forma anterior).
 
 En caso de que sea solamente una clave primaria:
